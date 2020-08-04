@@ -14,7 +14,7 @@
   "keywords": [
     "node"
   ],
-  "author": "Gabriel Alves",
+  "author": "Gabriel Alves, Joao Ferraz, Diego Chiodini e Maciel Fidelis",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.19.0",
